@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Spiderman",
+      "description": "everyone is hero of their own",
+      "userId": "101851927620285647527",
+      "id": 1
+    },
+    {
+      "title": "Pubg",
+      "description": "This is my new stream for pubg game",
+      "userId": "101851927620285647527",
+      "id": 2
+    }
+  ]
+}
